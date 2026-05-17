@@ -1,9 +1,3 @@
-
----
-
-# API_STRATEGY.md content
-
-```md
 # FinRisk Terminal — API Strategy
 
 ## API Providers
